@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-14",
-  "daysIncluded": 4,
+  "generatedAt": "2026-09-15",
+  "daysIncluded": 5,
   "days": [
     {
       "date": "2026-09-11",
@@ -93,6 +93,29 @@
       "hrvStatus": "BALANCED",
       "hrvValue": 33,
       "respirationAvg": 13.0
+    },
+    {
+      "date": "2026-09-15",
+      "restingHeartRate": 49,
+      "steps": 279,
+      "stepGoal": 6030,
+      "floorsAscended": 0.0,
+      "moderateIntensityMinutes": 0,
+      "vigorousIntensityMinutes": 0,
+      "bodyBatteryChargedValue": 44,
+      "bodyBatteryDrainedValue": 0,
+      "bodyBatteryHighestValue": 98,
+      "bodyBatteryLowestValue": 54,
+      "bodyBatteryMostRecentValue": 98,
+      "bodyBatteryAtWakeTime": 98,
+      "averageSpo2": 94.0,
+      "lowestSpo2": 85,
+      "sleepScore": 85,
+      "sleepSeconds": 22524,
+      "trainingReadiness": 66,
+      "hrvStatus": "BALANCED",
+      "hrvValue": 37,
+      "respirationAvg": 12.0
     }
   ]
 }
