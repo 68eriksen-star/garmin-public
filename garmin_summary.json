@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-16",
-  "daysIncluded": 6,
+  "generatedAt": "2026-09-21",
+  "daysIncluded": 7,
   "days": [
     {
       "date": "2026-09-11",
@@ -23,7 +23,11 @@
       "trainingReadiness": 56,
       "hrvStatus": "BALANCED",
       "hrvValue": 35,
-      "respirationAvg": 13.0
+      "respirationAvg": 13.0,
+      "acuteLoadRatio": null,
+      "acuteLoadStatus": null,
+      "acuteLoadRaw": null,
+      "chronicLoadRaw": null
     },
     {
       "date": "2026-09-12",
@@ -46,7 +50,11 @@
       "trainingReadiness": null,
       "hrvStatus": null,
       "hrvValue": null,
-      "respirationAvg": null
+      "respirationAvg": null,
+      "acuteLoadRatio": null,
+      "acuteLoadStatus": null,
+      "acuteLoadRaw": null,
+      "chronicLoadRaw": null
     },
     {
       "date": "2026-09-13",
@@ -69,7 +77,11 @@
       "trainingReadiness": 1,
       "hrvStatus": "BALANCED",
       "hrvValue": 23,
-      "respirationAvg": 16.0
+      "respirationAvg": 16.0,
+      "acuteLoadRatio": null,
+      "acuteLoadStatus": null,
+      "acuteLoadRaw": null,
+      "chronicLoadRaw": null
     },
     {
       "date": "2026-09-14",
@@ -92,7 +104,11 @@
       "trainingReadiness": 26,
       "hrvStatus": "BALANCED",
       "hrvValue": 33,
-      "respirationAvg": 13.0
+      "respirationAvg": 13.0,
+      "acuteLoadRatio": null,
+      "acuteLoadStatus": null,
+      "acuteLoadRaw": null,
+      "chronicLoadRaw": null
     },
     {
       "date": "2026-09-15",
@@ -115,7 +131,11 @@
       "trainingReadiness": 66,
       "hrvStatus": "BALANCED",
       "hrvValue": 37,
-      "respirationAvg": 12.0
+      "respirationAvg": 12.0,
+      "acuteLoadRatio": null,
+      "acuteLoadStatus": null,
+      "acuteLoadRaw": null,
+      "chronicLoadRaw": null
     },
     {
       "date": "2026-09-16",
@@ -138,7 +158,130 @@
       "trainingReadiness": null,
       "hrvStatus": null,
       "hrvValue": null,
-      "respirationAvg": 13.0
+      "respirationAvg": 13.0,
+      "acuteLoadRatio": null,
+      "acuteLoadStatus": null,
+      "acuteLoadRaw": null,
+      "chronicLoadRaw": null
+    },
+    {
+      "date": "2026-09-21",
+      "restingHeartRate": 50,
+      "steps": 686,
+      "stepGoal": 6920,
+      "floorsAscended": 0.0,
+      "moderateIntensityMinutes": 0,
+      "vigorousIntensityMinutes": 0,
+      "bodyBatteryChargedValue": 47,
+      "bodyBatteryDrainedValue": 3,
+      "bodyBatteryHighestValue": 84,
+      "bodyBatteryLowestValue": 39,
+      "bodyBatteryMostRecentValue": 83,
+      "bodyBatteryAtWakeTime": 83,
+      "averageSpo2": 93.0,
+      "lowestSpo2": 85,
+      "sleepScore": 84,
+      "sleepSeconds": 23984,
+      "trainingReadiness": 77,
+      "hrvStatus": "BALANCED",
+      "hrvValue": 30,
+      "respirationAvg": 13.0,
+      "acuteLoadRatio": null,
+      "acuteLoadStatus": null,
+      "acuteLoadRaw": null,
+      "chronicLoadRaw": null
+    }
+  ],
+  "recentExerciseLoads": [
+    {
+      "activityId": 24429977619,
+      "startTimeLocal": "2026-09-20 11:29:42",
+      "activityName": "Oslo L\u00f8ping",
+      "exerciseLoad": 74.71159362792969
+    },
+    {
+      "activityId": 24417549837,
+      "startTimeLocal": "2026-09-19 10:10:42",
+      "activityName": "Oslo Landeveissykling",
+      "exerciseLoad": 201.45095825195312
+    },
+    {
+      "activityId": 24398173337,
+      "startTimeLocal": "2026-09-17 17:56:53",
+      "activityName": "Styrke",
+      "exerciseLoad": 33.5621337890625
+    },
+    {
+      "activityId": 24384472653,
+      "startTimeLocal": "2026-09-16 15:20:17",
+      "activityName": "Tvedestrand Landeveissykling",
+      "exerciseLoad": 209.4947509765625
+    },
+    {
+      "activityId": 24372211876,
+      "startTimeLocal": "2026-09-15 17:20:00",
+      "activityName": "L\u00f8ping p\u00e5 tredem\u00f8lle",
+      "exerciseLoad": 89.98365783691406
+    },
+    {
+      "activityId": 24345694257,
+      "startTimeLocal": "2026-09-13 09:46:36",
+      "activityName": "Kviteseid Landeveissykling",
+      "exerciseLoad": 257.1838073730469
+    },
+    {
+      "activityId": 24332912453,
+      "startTimeLocal": "2026-09-12 13:06:11",
+      "activityName": "Kviteseid Fotturer",
+      "exerciseLoad": 2.7821197509765625
+    },
+    {
+      "activityId": 24332911129,
+      "startTimeLocal": "2026-09-12 11:25:13",
+      "activityName": "Kviteseid Fotturer",
+      "exerciseLoad": 11.871688842773438
+    },
+    {
+      "activityId": 24311079541,
+      "startTimeLocal": "2026-09-10 16:42:28",
+      "activityName": "Tvedestrand L\u00f8ping",
+      "exerciseLoad": 69.62995910644531
+    },
+    {
+      "activityId": 24298135665,
+      "startTimeLocal": "2026-09-09 15:40:03",
+      "activityName": "Tvedestrand Landeveissykling",
+      "exerciseLoad": 210.0596923828125
+    },
+    {
+      "activityId": 24285547376,
+      "startTimeLocal": "2026-09-08 16:53:51",
+      "activityName": "Styrke",
+      "exerciseLoad": 89.88406372070312
+    },
+    {
+      "activityId": 24272187434,
+      "startTimeLocal": "2026-09-07 16:33:27",
+      "activityName": "Skierg",
+      "exerciseLoad": 83.53923034667969
+    },
+    {
+      "activityId": 24257365777,
+      "startTimeLocal": "2026-09-06 12:02:54",
+      "activityName": "Tvedestrand L\u00f8ping",
+      "exerciseLoad": 84.01040649414062
+    },
+    {
+      "activityId": 24247659445,
+      "startTimeLocal": "2026-09-05 13:40:32",
+      "activityName": "Tvedestrand Landeveissykling",
+      "exerciseLoad": 180.5345458984375
+    },
+    {
+      "activityId": 24224039502,
+      "startTimeLocal": "2026-09-03 15:59:30",
+      "activityName": "Tvedestrand Landeveissykling",
+      "exerciseLoad": 213.82345581054688
     }
   ]
 }
