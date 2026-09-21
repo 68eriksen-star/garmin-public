@@ -186,10 +186,10 @@
       "hrvStatus": "BALANCED",
       "hrvValue": 30,
       "respirationAvg": 13.0,
-      "acuteLoadRatio": null,
-      "acuteLoadStatus": null,
-      "acuteLoadRaw": null,
-      "chronicLoadRaw": null
+      "acuteLoadRatio": 0.8,
+      "acuteLoadStatus": "OPTIMAL",
+      "acuteLoadRaw": 563,
+      "chronicLoadRaw": 665
     }
   ],
   "recentExerciseLoads": [
