@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-21",
-  "daysIncluded": 7,
+  "generatedAt": "2026-09-22",
+  "daysIncluded": 8,
   "days": [
     {
       "date": "2026-09-11",
@@ -190,9 +190,42 @@
       "acuteLoadStatus": "OPTIMAL",
       "acuteLoadRaw": 563,
       "chronicLoadRaw": 665
+    },
+    {
+      "date": "2026-09-22",
+      "restingHeartRate": 50,
+      "steps": 117,
+      "stepGoal": 6500,
+      "floorsAscended": 0.0,
+      "moderateIntensityMinutes": 0,
+      "vigorousIntensityMinutes": 0,
+      "bodyBatteryChargedValue": 39,
+      "bodyBatteryDrainedValue": 0,
+      "bodyBatteryHighestValue": 93,
+      "bodyBatteryLowestValue": 54,
+      "bodyBatteryMostRecentValue": 93,
+      "bodyBatteryAtWakeTime": null,
+      "averageSpo2": 94.0,
+      "lowestSpo2": 85,
+      "sleepScore": null,
+      "sleepSeconds": 0,
+      "trainingReadiness": null,
+      "hrvStatus": null,
+      "hrvValue": null,
+      "respirationAvg": 12.0,
+      "acuteLoadRatio": null,
+      "acuteLoadStatus": null,
+      "acuteLoadRaw": null,
+      "chronicLoadRaw": null
     }
   ],
   "recentExerciseLoads": [
+    {
+      "activityId": 24445146117,
+      "startTimeLocal": "2026-09-21 16:27:38",
+      "activityName": "Tvedestrand Terrengsykling",
+      "exerciseLoad": 119.23738098144531
+    },
     {
       "activityId": 24429977619,
       "startTimeLocal": "2026-09-20 11:29:42",
@@ -276,12 +309,6 @@
       "startTimeLocal": "2026-09-05 13:40:32",
       "activityName": "Tvedestrand Landeveissykling",
       "exerciseLoad": 180.5345458984375
-    },
-    {
-      "activityId": 24224039502,
-      "startTimeLocal": "2026-09-03 15:59:30",
-      "activityName": "Tvedestrand Landeveissykling",
-      "exerciseLoad": 213.82345581054688
     }
   ]
 }
