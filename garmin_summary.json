@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-22",
-  "daysIncluded": 8,
+  "generatedAt": "2026-09-23",
+  "daysIncluded": 9,
   "days": [
     {
       "date": "2026-09-11",
@@ -217,9 +217,42 @@
       "acuteLoadStatus": null,
       "acuteLoadRaw": null,
       "chronicLoadRaw": null
+    },
+    {
+      "date": "2026-09-23",
+      "restingHeartRate": 51,
+      "steps": 213,
+      "stepGoal": 6970,
+      "floorsAscended": 0.0,
+      "moderateIntensityMinutes": 0,
+      "vigorousIntensityMinutes": 0,
+      "bodyBatteryChargedValue": 43,
+      "bodyBatteryDrainedValue": 0,
+      "bodyBatteryHighestValue": 91,
+      "bodyBatteryLowestValue": 48,
+      "bodyBatteryMostRecentValue": 91,
+      "bodyBatteryAtWakeTime": null,
+      "averageSpo2": 94.0,
+      "lowestSpo2": 85,
+      "sleepScore": null,
+      "sleepSeconds": 0,
+      "trainingReadiness": null,
+      "hrvStatus": null,
+      "hrvValue": null,
+      "respirationAvg": 13.0,
+      "acuteLoadRatio": null,
+      "acuteLoadStatus": null,
+      "acuteLoadRaw": null,
+      "chronicLoadRaw": null
     }
   ],
   "recentExerciseLoads": [
+    {
+      "activityId": 24456885265,
+      "startTimeLocal": "2026-09-22 15:36:53",
+      "activityName": "Rulleski staking",
+      "exerciseLoad": 60.730194091796875
+    },
     {
       "activityId": 24445146117,
       "startTimeLocal": "2026-09-21 16:27:38",
@@ -303,12 +336,6 @@
       "startTimeLocal": "2026-09-06 12:02:54",
       "activityName": "Tvedestrand L\u00f8ping",
       "exerciseLoad": 84.01040649414062
-    },
-    {
-      "activityId": 24247659445,
-      "startTimeLocal": "2026-09-05 13:40:32",
-      "activityName": "Tvedestrand Landeveissykling",
-      "exerciseLoad": 180.5345458984375
     }
   ]
 }
