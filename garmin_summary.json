@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-24",
-  "daysIncluded": 10,
+  "generatedAt": "2026-09-29",
+  "daysIncluded": 11,
   "days": [
     {
       "date": "2026-09-11",
@@ -271,9 +271,66 @@
       "acuteLoadStatus": null,
       "acuteLoadRaw": null,
       "chronicLoadRaw": null
+    },
+    {
+      "date": "2026-09-29",
+      "restingHeartRate": 54,
+      "steps": 1974,
+      "stepGoal": 6630,
+      "floorsAscended": 2.34941,
+      "moderateIntensityMinutes": 33,
+      "vigorousIntensityMinutes": 39,
+      "bodyBatteryChargedValue": 47,
+      "bodyBatteryDrainedValue": 32,
+      "bodyBatteryHighestValue": 78,
+      "bodyBatteryLowestValue": 33,
+      "bodyBatteryMostRecentValue": 48,
+      "bodyBatteryAtWakeTime": 72,
+      "averageSpo2": 96.0,
+      "lowestSpo2": 88,
+      "sleepScore": 81,
+      "sleepSeconds": 23488,
+      "trainingReadiness": 59,
+      "hrvStatus": "BALANCED",
+      "hrvValue": 32,
+      "respirationAvg": 13.0,
+      "acuteLoadRatio": 0.9,
+      "acuteLoadStatus": "OPTIMAL",
+      "acuteLoadRaw": 584,
+      "chronicLoadRaw": 646
     }
   ],
   "recentExerciseLoads": [
+    {
+      "activityId": 24542632729,
+      "startTimeLocal": "2026-09-29 16:05:21",
+      "activityName": "ROUVY - Power Profile test",
+      "exerciseLoad": 97.32005310058594
+    },
+    {
+      "activityId": 24531600829,
+      "startTimeLocal": "2026-09-28 18:15:18",
+      "activityName": "Innend\u00f8rssykling - Rouvy",
+      "exerciseLoad": 111.81216430664062
+    },
+    {
+      "activityId": 24514888009,
+      "startTimeLocal": "2026-09-27 10:27:44",
+      "activityName": "Vr\u00e5dal/Kviteseid",
+      "exerciseLoad": 130.19532775878906
+    },
+    {
+      "activityId": 24505933880,
+      "startTimeLocal": "2026-09-26 15:14:52",
+      "activityName": "Kviteseid G\u00e5tur",
+      "exerciseLoad": 12.962356567382812
+    },
+    {
+      "activityId": 24483645112,
+      "startTimeLocal": "2026-09-24 17:38:16",
+      "activityName": "Tredem\u00f8lle 6x3min progressiv stigning 5, 30sek pause, h\u00e5ndledsspuls",
+      "exerciseLoad": 142.56646728515625
+    },
     {
       "activityId": 24469990417,
       "startTimeLocal": "2026-09-23 15:47:08",
@@ -333,36 +390,6 @@
       "startTimeLocal": "2026-09-12 13:06:11",
       "activityName": "Kviteseid Fotturer",
       "exerciseLoad": 2.7821197509765625
-    },
-    {
-      "activityId": 24332911129,
-      "startTimeLocal": "2026-09-12 11:25:13",
-      "activityName": "Kviteseid Fotturer",
-      "exerciseLoad": 11.871688842773438
-    },
-    {
-      "activityId": 24311079541,
-      "startTimeLocal": "2026-09-10 16:42:28",
-      "activityName": "Tvedestrand L\u00f8ping",
-      "exerciseLoad": 69.62995910644531
-    },
-    {
-      "activityId": 24298135665,
-      "startTimeLocal": "2026-09-09 15:40:03",
-      "activityName": "Tvedestrand Landeveissykling",
-      "exerciseLoad": 210.0596923828125
-    },
-    {
-      "activityId": 24285547376,
-      "startTimeLocal": "2026-09-08 16:53:51",
-      "activityName": "Styrke",
-      "exerciseLoad": 89.88406372070312
-    },
-    {
-      "activityId": 24272187434,
-      "startTimeLocal": "2026-09-07 16:33:27",
-      "activityName": "Skierg",
-      "exerciseLoad": 83.53923034667969
     }
   ]
 }
