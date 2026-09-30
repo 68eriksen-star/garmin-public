@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29",
-  "daysIncluded": 11,
+  "generatedAt": "2026-09-30",
+  "daysIncluded": 12,
   "days": [
     {
       "date": "2026-09-11",
@@ -298,6 +298,33 @@
       "acuteLoadStatus": "OPTIMAL",
       "acuteLoadRaw": 584,
       "chronicLoadRaw": 646
+    },
+    {
+      "date": "2026-09-30",
+      "restingHeartRate": 57,
+      "steps": null,
+      "stepGoal": 5870,
+      "floorsAscended": 0.0,
+      "moderateIntensityMinutes": 0,
+      "vigorousIntensityMinutes": 0,
+      "bodyBatteryChargedValue": 11,
+      "bodyBatteryDrainedValue": 0,
+      "bodyBatteryHighestValue": 41,
+      "bodyBatteryLowestValue": 30,
+      "bodyBatteryMostRecentValue": 41,
+      "bodyBatteryAtWakeTime": null,
+      "averageSpo2": 92.0,
+      "lowestSpo2": 79,
+      "sleepScore": null,
+      "sleepSeconds": 0,
+      "trainingReadiness": null,
+      "hrvStatus": null,
+      "hrvValue": null,
+      "respirationAvg": 14.0,
+      "acuteLoadRatio": null,
+      "acuteLoadStatus": null,
+      "acuteLoadRaw": null,
+      "chronicLoadRaw": null
     }
   ],
   "recentExerciseLoads": [
