@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-30",
-  "daysIncluded": 12,
+  "generatedAt": "2026-10-01",
+  "daysIncluded": 13,
   "days": [
     {
       "date": "2026-09-11",
@@ -325,9 +325,42 @@
       "acuteLoadStatus": null,
       "acuteLoadRaw": null,
       "chronicLoadRaw": null
+    },
+    {
+      "date": "2026-10-01",
+      "restingHeartRate": 53,
+      "steps": 232,
+      "stepGoal": 5410,
+      "floorsAscended": 0.0,
+      "moderateIntensityMinutes": 0,
+      "vigorousIntensityMinutes": 0,
+      "bodyBatteryChargedValue": 38,
+      "bodyBatteryDrainedValue": 2,
+      "bodyBatteryHighestValue": 70,
+      "bodyBatteryLowestValue": 32,
+      "bodyBatteryMostRecentValue": 68,
+      "bodyBatteryAtWakeTime": 70,
+      "averageSpo2": 93.0,
+      "lowestSpo2": 82,
+      "sleepScore": 76,
+      "sleepSeconds": 22155,
+      "trainingReadiness": 68,
+      "hrvStatus": "UNBALANCED",
+      "hrvValue": 32,
+      "respirationAvg": 14.0,
+      "acuteLoadRatio": 0.6,
+      "acuteLoadStatus": "LOW",
+      "acuteLoadRaw": 407,
+      "chronicLoadRaw": 600
     }
   ],
   "recentExerciseLoads": [
+    {
+      "activityId": 24555392802,
+      "startTimeLocal": "2026-09-30 16:04:09",
+      "activityName": "Styrke",
+      "exerciseLoad": 18.6937255859375
+    },
     {
       "activityId": 24542632729,
       "startTimeLocal": "2026-09-29 16:05:21",
@@ -411,12 +444,6 @@
       "startTimeLocal": "2026-09-13 09:46:36",
       "activityName": "Kviteseid Landeveissykling",
       "exerciseLoad": 257.1838073730469
-    },
-    {
-      "activityId": 24332912453,
-      "startTimeLocal": "2026-09-12 13:06:11",
-      "activityName": "Kviteseid Fotturer",
-      "exerciseLoad": 2.7821197509765625
     }
   ]
 }
