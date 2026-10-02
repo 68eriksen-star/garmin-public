@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01",
-  "daysIncluded": 13,
+  "generatedAt": "2026-10-02",
+  "daysIncluded": 14,
   "days": [
     {
       "date": "2026-09-11",
@@ -352,12 +352,45 @@
       "acuteLoadStatus": "LOW",
       "acuteLoadRaw": 407,
       "chronicLoadRaw": 600
+    },
+    {
+      "date": "2026-10-02",
+      "restingHeartRate": 52,
+      "steps": 254,
+      "stepGoal": 6230,
+      "floorsAscended": 1.0,
+      "moderateIntensityMinutes": 0,
+      "vigorousIntensityMinutes": 0,
+      "bodyBatteryChargedValue": 38,
+      "bodyBatteryDrainedValue": 1,
+      "bodyBatteryHighestValue": 76,
+      "bodyBatteryLowestValue": 38,
+      "bodyBatteryMostRecentValue": 75,
+      "bodyBatteryAtWakeTime": 75,
+      "averageSpo2": 95.0,
+      "lowestSpo2": 86,
+      "sleepScore": 59,
+      "sleepSeconds": 22625,
+      "trainingReadiness": 44,
+      "hrvStatus": "BALANCED",
+      "hrvValue": 32,
+      "respirationAvg": 14.0,
+      "acuteLoadRatio": 0.6,
+      "acuteLoadStatus": "LOW",
+      "acuteLoadRaw": 394,
+      "chronicLoadRaw": 586
     }
   ],
   "recentExerciseLoads": [
     {
+      "activityId": 24568332841,
+      "startTimeLocal": "2026-10-01 16:45:23",
+      "activityName": "Tvedestrand L\u00f8ping",
+      "exerciseLoad": 60.227783203125
+    },
+    {
       "activityId": 24555392802,
-      "startTimeLocal": "2026-09-30 16:04:09",
+      "startTimeLocal": "2026-09-30 16:04:00",
       "activityName": "Styrke",
       "exerciseLoad": 18.6937255859375
     },
@@ -438,12 +471,6 @@
       "startTimeLocal": "2026-09-15 17:20:00",
       "activityName": "L\u00f8ping p\u00e5 tredem\u00f8lle",
       "exerciseLoad": 89.98365783691406
-    },
-    {
-      "activityId": 24345694257,
-      "startTimeLocal": "2026-09-13 09:46:36",
-      "activityName": "Kviteseid Landeveissykling",
-      "exerciseLoad": 257.1838073730469
     }
   ]
 }
